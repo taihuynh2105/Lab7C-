@@ -1,0 +1,7 @@
+C:\Users\T&T\Desktop\Lab7\Lab7Bai1\bin\Debug\Lab7Bai1.exe.config
+C:\Users\T&T\Desktop\Lab7\Lab7Bai1\bin\Debug\Lab7Bai1.exe
+C:\Users\T&T\Desktop\Lab7\Lab7Bai1\bin\Debug\Lab7Bai1.pdb
+C:\Users\T&T\Desktop\Lab7\Lab7Bai1\obj\Debug\Lab7Bai1.csproj.AssemblyReference.cache
+C:\Users\T&T\Desktop\Lab7\Lab7Bai1\obj\Debug\Lab7Bai1.csproj.CoreCompileInputs.cache
+C:\Users\T&T\Desktop\Lab7\Lab7Bai1\obj\Debug\Lab7Bai1.exe
+C:\Users\T&T\Desktop\Lab7\Lab7Bai1\obj\Debug\Lab7Bai1.pdb
